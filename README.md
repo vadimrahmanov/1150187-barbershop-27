@@ -1,6 +1,6 @@
 # Barbershop "Borodinski"
 
-My study project, which I used on my first HTML, CSS course to practice after lessons. I made this website from template using Photoshop.
+My study project, which I used on my first HTML, CSS course to practice after lessons. I made this website from a template using Photoshop.
 #### The HTML markup is semantic.
 This is absolutely static website, which has good accessibility.
 ## Technologies
