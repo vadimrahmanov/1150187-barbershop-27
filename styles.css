@@ -1401,7 +1401,7 @@ input[type="radio"].visually-hidden {
   fill: #000000;
 }
 
-.footer-copyright {
+.footer-language {
   max-width: 150px;
   margin: 0;
   margin-left: auto;
@@ -1409,18 +1409,18 @@ input[type="radio"].visually-hidden {
   text-align: center;
 }
 
-.footer-copyright .button {
+.footer-language .button {
   display: block;
   margin-right: 0;
 }
 
-.footer-copyright b {
+.footer-language b {
   display: block;
   margin-bottom: 15px;
 }
 
-.footer-copyright .button:hover,
-.footer-copyright .button:focus {
+.footer-language .button:hover,
+.footer-language .button:focus {
   color: #000000;
 
   background-color: #ffffff;
